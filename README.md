@@ -1,35 +1,36 @@
-# Portfolio Builder
+# PortfolioBuilder
 
-A browser-based portfolio generator: pick a template, fill in your details, and export a static site you can host anywhere—including [Netlify](https://www.netlify.com/) with the in-app deploy guide.
+Free, no-code portfolio generator — build and deploy your portfolio in minutes.
 
-**Live:** open [`index.html`](index.html) in a browser, or serve the folder with any static file server.
+Built by Mohammed Ilyas Ahmed
 
-## Features
+## ✨ Features
 
-- **Five templates:** Minimal Elegance, Creative Fusion, Dev Terminal, Project Manager, Product Manager
-- **Guided steps:** template → customize (bio, projects, skills, contact, optional photo) → preview → export
-- **Static output:** download a self-contained site; no build step required
-- **Deploy help:** Netlify-oriented instructions built into the UI
+- **5 Professional Templates** — Minimal Elegance, Creative Fusion, Dev Terminal, Project Manager, Product Manager
+- **Photo Upload** — embed your profile photo directly (no external hosting)
+- **One-Click Deploy** — publish to Netlify and get a live URL instantly
+- **Zero dependencies** — single HTML file, works offline, no build tools
+- **Dark mode UI** — Premium SaaS glassmorphism design
+- **MIT Licensed** — free to use and share
 
-## Run locally
+## 🚀 Live Demo
 
-From this directory:
+👉 [Open PortfolioBuilder](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mdilyasahmed/Portfolio-Builder/main/index.html)
 
-```bash
-python3 -m http.server 8080
-```
+## 📦 How to Use
 
-Then visit `http://localhost:8080`. (A plain `file://` open also works for many features; a local server avoids browser restrictions for some operations.)
+1. Open `index.html` in your browser (or visit the live demo)
+2. Pick a template
+3. Fill in your details — name, skills, projects, photo
+4. Click **One-Click Deploy to Netlify** to go live instantly
 
-## Repository layout
+## 🌐 Deploy Your Generated Portfolio
 
-| File        | Purpose                          |
-|------------|-----------------------------------|
-| `index.html` | Single-page app (HTML, CSS, JS) |
-| `LICENSE`  | MIT License                       |
+| Platform       | Steps                                                                 |
+| -------------- | --------------------------------------------------------------------- |
+| **Netlify**    | Use the built-in deploy button — drag & drop, instant URL             |
+| **GitHub Pages** | Create a repo named `username.github.io`, upload as `index.html`     |
 
-## License
+## 📄 License
 
-MIT — see [LICENSE](LICENSE).
-
-© 2026 Mohammed Ilyas Ahmed
+MIT License — © 2026 Mohammed Ilyas Ahmed
