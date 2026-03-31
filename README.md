@@ -14,7 +14,7 @@ Built by Mohammed Ilyas Ahmed
 
 ## 🚀 Live Demo
 
-👉 [Open PortfolioBuilder](https://htmlpreview.github.io/?https://raw.githubusercontent.com/mdilyasahmed/Portfolio-Builder/main/index.html)
+👉 [Open PortfolioBuilder](https://mdilyasahmed.github.io/Portfolio-Builder/)
 
 ## 📦 How to Use
 
