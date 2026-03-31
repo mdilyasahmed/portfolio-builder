@@ -10,7 +10,6 @@ Built by Mohammed Ilyas Ahmed
 - **Photo Upload** — embed your profile photo directly (no external hosting)
 - **One-Click Deploy** — publish to Netlify and get a live URL instantly
 - **Zero dependencies** — single HTML file, works offline, no build tools
-- **Dark mode UI** — Premium SaaS glassmorphism design
 - **MIT Licensed** — free to use and share
 
 ## 🚀 Live Demo
